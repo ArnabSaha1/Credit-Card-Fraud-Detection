@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection
-![Image] (https://miro.medium.com/v2/resize:fit:1024/0*nDTApwXjrDUH3kqm.png)
+![Image](https://miro.medium.com/v2/resize:fit:1024/0*nDTApwXjrDUH3kqm.png)
 ## Problem Statement
 The project focuses on detecting fraudulent credit card transactions using machine learning models. With financial institutions facing significant challenges from fraud, machine learning provides an efficient way to monitor transactions, reduce manual reviews, and minimize financial losses. This model aims to identify fraudulent transactions based on historical data from over 1,000 cardholders and 800 merchants, spanning 2019–2020.
 ## Key Features:
